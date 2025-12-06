@@ -1,0 +1,12 @@
+Project Name: Retail Sales Performance Analysis using Python
+Objective: Analyze a retail sales dataset to identify top-performing product categories and regions to support data-driven inventory planning.
+
+Key Insights:
+
+1. Top Category: Electronics recorded the highest revenue share compared to Clothing and Home categories.
+
+2. Regional Performance: The West region had the strongest sales performance.
+
+3. Recommendation: Increase Electronics inventory levels in West-region warehouses to prevent stockouts and                          support demand growth. 
+
+Tools Used: Python, Pandas, Matplotlib
