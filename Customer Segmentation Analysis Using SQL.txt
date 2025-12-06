@@ -1,0 +1,16 @@
+Project Name: Customer Segmentation (RFM Analysis) using SQL
+Objective: Segment customers based on purchasing behavior to help businesses create targeted marketing strategies.
+
+Methodology:
+• Used SQL to compute Recency, Frequency, and Monetary metrics.
+• Applied CASE statements to classify customers into meaningful segments.
+
+Key Findings:
+
+1. VIP Customers: Customers spending more than $400 were classified as VIPs.
+
+2. Loyal Customers: Customers with multiple transactions were categorized as Loyal but had smaller basket sizes.
+
+3. Action Plan: Introduce loyalty rewards for VIPs and bundle offers for Loyal Customers to increase overall spending.
+
+Tools Used: SQL
