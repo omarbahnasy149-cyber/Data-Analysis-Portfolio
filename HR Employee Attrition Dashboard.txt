@@ -1,0 +1,12 @@
+Project Name: HR Employee Attrition Dashboard
+Objective: Develop a dashboard to identify departments with high turnover rates using Excel.
+
+Key Insights:
+
+1. High Risk: The Marketing department shows the highest attrition rate (40%), indicating workload or management issues.
+
+2. Stability: HR has the lowest turnover rate.
+
+3. Recommendation: Conduct exit interviews for Marketing staff to identify core dissatisfaction factors.
+
+Tools Used: Excel, Data Visualization
